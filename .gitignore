@@ -1,3 +1,4 @@
+ignore.txt
 ################## Eclipse ######################
 target
 .metadata
@@ -53,4 +54,3 @@ build/
 
 #################### VS Code ####################
 .vscode/
-ignore.txt
